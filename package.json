@@ -2,6 +2,12 @@
 	"name" : "APPRIZ-API",
 	"version": "0.0.1",
 	"main" : "api_v0.1.js",
+	"engines": {
+		"node": "4.1.1"
+	},
+	"scripts" : { 
+		"start" : "node api.js" 
+	} ,
 	"dependencies": {
 	  "express": "4.7.2",
 	  "crypto": "0.0.3",
