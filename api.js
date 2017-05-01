@@ -42,14 +42,8 @@ crypto = require('crypto');
 cryptools = require('cryptools')
 var loggly = require('loggly'); 
 
-var ssl_options = {
-  key: fs.readFileSync(Config.HTTPS.key),
-  cert: fs.readFileSync(Config.HTTPS.cert),
-  ca: fs.readFileSync(Config.HTTPS.ca),
-};
 
-var server = http.createServer(app);
-var secureServer = https.createServer(ssl_options, app);
+
 
 
 
@@ -132,7 +126,6 @@ router.post('/setMessageStatus', function(req, res) {
 	
 	
 
-app.use(forceSSL);	
 
 
 // REGISTER  ROUTES -------------------------------
@@ -140,8 +133,8 @@ app.use(forceSSL);
 app.use('/appriz', router);
 // START THE SERVER
 // =============================================================================
-//app.listen(port);
-secureServer.listen(port)
+app.listen(port);
+//erver.listen(port)
 
 
 
