@@ -1,0 +1,20 @@
+{
+	"id"	: "SchemaObjectClient",
+	"type"  : "object",
+	"additionalProperties": false,
+	
+	"properties" : {
+		"secretKey" : {"type" : "string","required": true},
+		"identification" : {"type" : "string","required": true},
+		"firstName"		 : {"type" : "string","required": true},
+		"lastName"		 : {"type" : "string","required": true},
+		"nationality"	 : {"type" : "string"},
+		"sex"			 : {"type" : "string", "pattern" : "^M|F$"},
+		"birthDate"		 : {"type" : "date"},
+		"residence"		 : {"type" : "string"},
+		"uuid"			 : {"type" : "string","required": true},
+		"regId"   		 : {"type" : "string","required": true},
+		
+		"products"		 : {"type" : "object", "minProperties": 1,"required": true}
+	}
+  }

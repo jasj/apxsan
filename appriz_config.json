@@ -1,0 +1,35 @@
+{
+	"PM_URL":"http://testing.apprizservice.com/MessagingRT/Messages/",
+	"SPM_URL": "http://testing.apprizservice.com/Setup/SetupWS?wsdl",
+	"ENTITY_NAME":"SmartSoft Bank",
+	"ENTITY_ID": 1,
+	"PORT" : 8089,
+	
+	"IDENTITY":{
+		"sessionId" : "53E9DD3F-3891-476B-B0BD-039E4CE87C79",
+		"computer"  : "API",
+		"userName"  : "API-USR",
+		"ipAddress" : "127.0.0.1"
+	},
+	
+	"DB_CONFIG" : {
+		"user": "erodriguez",
+		"password": "apprizadm1nDB",
+		"server": "testingdb.cioginbczsdw.us-east-1.rds.amazonaws.com", 
+		"database": "ApprizTesting"
+	},
+	
+	"LOGGLY" :{
+		"token": "9daae6ac-6b23-4243-a8b1-550b4c891e4e",
+		"subdomain": "apprizdev",
+		"json":true
+	},
+	
+	"HTTPS":{
+		"key": "Certs/server.key",
+		"cert": "Certs/server.crt",
+		"ca": "Certs/ca.crt",
+		"requestCert": true,
+		"rejectUnauthorized": true
+	}
+}

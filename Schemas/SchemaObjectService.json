@@ -1,0 +1,13 @@
+{
+	"id"	: "SchemaobjectService",
+	"type"  : "object",
+	"additionalProperties": false,
+	
+	"properties" : {
+		"idSecretClient" : {"type" : "string","required": true},
+		"code" : {"type" : "string","required": true},
+		"description": {"type" : "string","required": true},
+		"idMessage": {"type" : "string"},
+		"productName":  {"type" : "string"}
+	}
+}

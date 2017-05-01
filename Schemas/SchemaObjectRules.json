@@ -1,0 +1,27 @@
+{
+	"id"	: "SchemaObjectRules",
+	"type"  : "object",
+	"additionalProperties": false,
+	
+	"properties" : {
+		"idSecretClient" : {"type" : "string","required": true},
+		"productName" : {"type" : "string","required": true},
+		"rules" : {
+			"type": "array",
+			"required": true,
+            "minItems": 1,
+            "items": {			
+				"type": "object",
+				"additionalProperties": false,
+				"properties":{
+					"idRule" : {"type" : "string","required": true},
+					"idTime" : {"type" : "string"},
+					"trxNo"  : {"type" : "string"} ,
+					"singleAmount" : {"type" : "string"} ,
+					"totalAmount" : {"type" : "string"},
+					"varation" : {"type" : "string"}
+				 }
+			}
+		}
+	}
+}

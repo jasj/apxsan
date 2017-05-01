@@ -1,0 +1,224 @@
+2014-07-30 15:45:53 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-07-30 15:45:53 - Started 11508
+2014-07-30 16:41:22 - Stopping apprizmobileapi.exe
+2014-07-30 16:41:22 - ProcessKill 11508
+2014-07-30 16:41:22 - Finished apprizmobileapi.exe
+2014-07-30 16:41:46 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-07-30 16:41:46 - Started 2180
+2014-07-31 10:36:45 - Stopping apprizmobileapi.exe
+2014-07-31 10:36:45 - ProcessKill 2180
+2014-07-31 10:36:45 - Finished apprizmobileapi.exe
+2014-07-31 10:36:47 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-07-31 10:36:47 - Started 9108
+2014-07-31 10:37:46 - Stopping apprizmobileapi.exe
+2014-07-31 10:37:46 - ProcessKill 9108
+2014-07-31 10:37:46 - Finished apprizmobileapi.exe
+2014-07-31 19:48:24 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-07-31 19:48:24 - Started 2284
+2014-08-01 09:48:38 - Stopping apprizmobileapi.exe
+2014-08-01 09:48:38 - ProcessKill 2284
+2014-08-01 09:48:38 - Finished apprizmobileapi.exe
+2014-08-02 09:51:03 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-02 09:51:03 - Started 2196
+2014-08-03 14:26:15 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-03 14:26:15 - Started 2224
+2014-08-04 16:17:25 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-04 16:17:25 - Started 2100
+2014-08-05 09:27:31 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-05 09:27:31 - Started 1824
+2014-08-07 08:46:41 - Stopping apprizmobileapi.exe
+2014-08-07 08:46:41 - ProcessKill 1824
+2014-08-07 08:46:41 - Finished apprizmobileapi.exe
+2014-08-07 08:47:05 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-07 08:47:05 - Started 2188
+2014-08-10 01:44:01 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 01:44:01 - Started 1764
+2014-08-10 02:24:49 - Stopping apprizmobileapi.exe
+2014-08-10 02:24:49 - ProcessKill 1764
+2014-08-10 02:24:49 - Finished apprizmobileapi.exe
+2014-08-10 02:25:07 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 02:25:07 - Started 2076
+2014-08-10 02:34:58 - Stopping apprizmobileapi.exe
+2014-08-10 02:34:58 - ProcessKill 2076
+2014-08-10 02:34:58 - Finished apprizmobileapi.exe
+2014-08-10 02:35:16 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 02:35:16 - Started 2168
+2014-08-10 03:02:09 - Stopping apprizmobileapi.exe
+2014-08-10 03:02:09 - ProcessKill 2168
+2014-08-10 03:02:09 - Finished apprizmobileapi.exe
+2014-08-10 03:02:53 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 03:02:53 - Started 2080
+2014-08-10 03:53:03 - Stopping apprizmobileapi.exe
+2014-08-10 03:53:03 - ProcessKill 2080
+2014-08-10 03:53:03 - Finished apprizmobileapi.exe
+2014-08-10 03:55:22 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 03:55:22 - Started 2240
+2014-08-10 03:56:26 - Stopping apprizmobileapi.exe
+2014-08-10 03:56:26 - ProcessKill 2240
+2014-08-10 03:56:26 - Finished apprizmobileapi.exe
+2014-08-10 03:57:23 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 03:57:23 - Started 2160
+2014-08-10 10:34:19 - Stopping apprizmobileapi.exe
+2014-08-10 10:34:19 - ProcessKill 2160
+2014-08-10 10:34:19 - Finished apprizmobileapi.exe
+2014-08-10 10:34:37 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 10:34:37 - Started 2056
+2014-08-10 11:10:35 - Stopping apprizmobileapi.exe
+2014-08-10 11:10:35 - ProcessKill 2056
+2014-08-10 11:10:35 - Finished apprizmobileapi.exe
+2014-08-10 11:10:52 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 11:10:52 - Started 2056
+2014-08-10 15:12:23 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 15:12:23 - Started 2028
+2014-08-10 15:15:48 - Stopping apprizmobileapi.exe
+2014-08-10 15:15:48 - ProcessKill 2028
+2014-08-10 15:15:48 - Finished apprizmobileapi.exe
+2014-08-10 15:16:10 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 15:16:10 - Started 2084
+2014-08-10 18:19:00 - Stopping apprizmobileapi.exe
+2014-08-10 18:19:00 - ProcessKill 2084
+2014-08-10 18:19:00 - Finished apprizmobileapi.exe
+2014-08-10 18:19:14 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-10 18:19:14 - Started 2072
+2014-08-12 08:42:04 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-12 08:42:04 - Started 1740
+2014-08-14 10:30:30 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-14 10:30:31 - Started 2896
+2014-08-14 10:30:35 - Stopping apprizmobileapi.exe
+2014-08-14 10:30:35 - ProcessKill 2896
+2014-08-14 10:30:35 - Finished apprizmobileapi.exe
+2014-08-14 10:30:58 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-14 10:30:59 - Started 2416
+2014-08-15 14:11:38 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-15 14:11:38 - Started 2240
+2014-08-17 17:38:41 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-17 17:38:41 - Started 2292
+2014-08-17 17:40:04 - Stopping apprizmobileapi.exe
+2014-08-17 17:40:04 - ProcessKill 2292
+2014-08-17 17:40:04 - Finished apprizmobileapi.exe
+2014-08-17 17:40:26 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-17 17:40:26 - Started 2076
+2014-08-18 08:43:38 - Stopping apprizmobileapi.exe
+2014-08-18 08:43:38 - ProcessKill 2076
+2014-08-18 08:43:38 - Finished apprizmobileapi.exe
+2014-08-18 08:43:54 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-18 08:43:54 - Started 1824
+2014-08-18 16:40:10 - Stopping apprizmobileapi.exe
+2014-08-18 16:40:10 - ProcessKill 1824
+2014-08-18 16:40:10 - Finished apprizmobileapi.exe
+2014-08-18 16:40:26 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-18 16:40:26 - Started 1760
+2014-08-19 09:49:04 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-19 09:49:04 - Started 2188
+2014-08-22 10:19:13 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-22 10:19:13 - Started 2128
+2014-08-22 10:21:21 - Stopping apprizmobileapi.exe
+2014-08-22 10:21:21 - ProcessKill 2128
+2014-08-22 10:21:21 - Finished apprizmobileapi.exe
+2014-08-22 10:21:34 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-22 10:21:34 - Started 1364
+2014-08-23 00:31:00 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-23 00:31:00 - Started 1760
+2014-08-23 15:51:27 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-23 15:51:27 - Started 1736
+2014-08-23 20:04:25 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-23 20:04:25 - Started 2172
+2014-08-23 20:23:06 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-23 20:23:06 - Started 2084
+2014-08-23 20:23:40 - Stopping apprizmobileapi.exe
+2014-08-23 20:23:40 - ProcessKill 2084
+2014-08-23 20:23:40 - Finished apprizmobileapi.exe
+2014-08-23 20:23:58 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-23 20:23:58 - Started 2064
+2014-08-24 11:49:43 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-24 11:49:43 - Started 1500
+2014-08-24 17:30:47 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-24 17:30:47 - Started 1352
+2014-08-25 09:51:37 - Stopping apprizmobileapi.exe
+2014-08-25 09:51:37 - ProcessKill 1352
+2014-08-25 09:51:37 - Finished apprizmobileapi.exe
+2014-08-25 09:51:43 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-25 09:51:43 - Started 7888
+2014-08-25 10:55:02 - Stopping apprizmobileapi.exe
+2014-08-25 10:55:02 - ProcessKill 7888
+2014-08-25 10:55:02 - Finished apprizmobileapi.exe
+2014-08-25 20:31:47 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-25 20:31:47 - Started 2132
+2014-08-25 20:32:05 - Stopping apprizmobileapi.exe
+2014-08-25 20:32:05 - ProcessKill 2132
+2014-08-25 20:32:05 - Finished apprizmobileapi.exe
+2014-08-25 20:32:18 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-25 20:32:18 - Started 1832
+2014-08-27 09:58:04 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-27 09:58:04 - Started 2180
+2014-08-28 14:08:08 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-28 14:08:08 - Started 1380
+2014-08-28 14:08:21 - Stopping apprizmobileapi.exe
+2014-08-28 14:08:21 - ProcessKill 1380
+2014-08-28 14:08:21 - Finished apprizmobileapi.exe
+2014-08-28 14:08:39 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-28 14:08:39 - Started 2020
+2014-08-28 15:10:09 - Stopping apprizmobileapi.exe
+2014-08-28 15:10:09 - ProcessKill 2020
+2014-08-28 15:10:09 - Finished apprizmobileapi.exe
+2014-08-28 15:10:28 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-28 15:10:28 - Started 1776
+2014-08-29 10:04:05 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-29 10:04:05 - Started 1340
+2014-08-29 14:31:32 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-29 14:31:32 - Started 2012
+2014-08-30 12:07:57 - Stopping apprizmobileapi.exe
+2014-08-30 12:07:57 - ProcessKill 2012
+2014-08-30 12:07:57 - Finished apprizmobileapi.exe
+2014-08-30 12:08:16 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-08-30 12:08:16 - Started 1316
+2014-09-01 14:35:22 - Stopping apprizmobileapi.exe
+2014-09-01 14:35:22 - ProcessKill 1316
+2014-09-01 14:35:22 - Finished apprizmobileapi.exe
+2014-09-01 14:36:00 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-01 14:36:00 - Started 1280
+2014-09-04 08:07:20 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-04 08:07:20 - Started 1588
+2014-09-05 09:09:25 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-05 09:09:25 - Started 1616
+2014-09-07 04:02:16 - Stopping apprizmobileapi.exe
+2014-09-07 04:02:16 - ProcessKill 1616
+2014-09-07 04:02:16 - Finished apprizmobileapi.exe
+2014-09-07 04:02:30 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-07 04:02:30 - Started 1928
+2014-09-07 14:04:04 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-07 14:04:04 - Started 1048
+2014-09-08 15:08:29 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-08 15:08:29 - Started 1088
+2014-09-08 16:05:15 - Stopping apprizmobileapi.exe
+2014-09-08 16:05:15 - ProcessKill 1088
+2014-09-08 16:05:15 - Finished apprizmobileapi.exe
+2014-09-08 16:05:34 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-08 16:05:34 - Started 2044
+2014-09-09 21:14:17 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-09 21:14:17 - Started 1112
+2014-09-11 09:35:21 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-11 09:35:21 - Started 2012
+2014-09-12 02:55:52 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-12 02:55:52 - Started 1968
+2014-09-12 02:56:04 - Stopping apprizmobileapi.exe
+2014-09-12 02:56:04 - ProcessKill 1968
+2014-09-12 02:56:04 - Finished apprizmobileapi.exe
+2014-09-12 02:56:17 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-12 02:56:17 - Started 2000
+2014-09-12 14:39:58 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-12 14:39:58 - Started 1076
+2014-09-13 13:04:37 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-13 13:04:37 - Started 1600
+2014-09-13 15:23:03 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-13 15:23:03 - Started 1040
+2014-09-16 13:05:13 - Stopping apprizmobileapi.exe
+2014-09-16 13:05:13 - ProcessKill 1040
+2014-09-16 13:05:13 - Finished apprizmobileapi.exe
+2014-09-16 13:05:37 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-16 13:05:37 - Started 1444
+2014-09-19 08:19:59 - Stopping apprizmobileapi.exe
+2014-09-19 08:19:59 - ProcessKill 1444
+2014-09-19 08:19:59 - Finished apprizmobileapi.exe
+2014-09-19 08:20:14 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\NodeJSProject\apprizmovil\node_modules\node-windows\lib\wrapper.js" -f "C:\NodeJSProject\apprizmovil\api.js" -l "APPRIZ Mobile API" -g 0.25 -w 1 -r 3 -a n
+2014-09-19 08:20:14 - Started 1092

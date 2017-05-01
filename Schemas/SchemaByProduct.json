@@ -1,0 +1,10 @@
+{
+	"id"	: "SchemaByProduct",
+	"type"  : "object",
+	"additionalProperties": false,
+	
+	"properties" : {
+		"idSecretClient" : {"type" : "string","required": true},
+		"productName":  {"type" : "string"}
+	}
+}

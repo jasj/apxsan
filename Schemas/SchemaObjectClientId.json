@@ -1,0 +1,9 @@
+{
+	"id"	: "SchemaobjectClientId",
+	"type"  : "object",
+	"additionalProperties": true,
+	
+	"properties" : {
+		"idSecretClient" : {"type" : "string","required": true}
+	}
+}
